@@ -13,6 +13,7 @@ import com.visualpathit.account.model.Role;
 import com.visualpathit.account.model.User;
 
 /** {@author imrant} !*/
+/*just add comment to test on github for synch or not */
 public class RoleTest {
 
 	public static final Long EXPECTED_ID = 1L;	
